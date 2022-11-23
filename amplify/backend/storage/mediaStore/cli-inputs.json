@@ -1,0 +1,14 @@
+{
+  "resourceName": "mediaStore",
+  "policyUUID": "f4aaef9d",
+  "bucketName": "amplifyreactgraphql1cd4a0b434f44ec5b1d8d2bacdd1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
